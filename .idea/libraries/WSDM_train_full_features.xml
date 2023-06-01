@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WSDM_train_full_features">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/0415/WSDM_train_full_features.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
